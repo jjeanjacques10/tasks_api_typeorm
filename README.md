@@ -1,6 +1,6 @@
 # Task API - Typescript + Typeorm
 
-Simple API developed for using Typescript and TypeORM.
+Simple API developed for using [Typescript](https://www.typescriptlang.org/) and [TypeORM](https://typeorm.io/).
 
 ## Get Started
 
